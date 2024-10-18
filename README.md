@@ -8,7 +8,7 @@ Welcome to my personal portfolio! This site showcases my projects, skills, and e
 
 Hi, I'm Kyle! I'm a web developer and IT security enthusiast based in St. Louis, Missouri, with a passion for creating efficient, user-friendly websites. I have experience in **front-end development**, **network programming**, and **information security**. This portfolio highlights my personal and professional projects, along with my journey in tech.
 
-- **Location:** South Linbergh Boulevard, South Saint Louis County, Saint Louis, Missouri, USA
+- **Location:** South Saint Louis County, Saint Louis, Missouri, United States
 - **Skills:** HTML, CSS, JavaScript, C++, Network Programming, Cybersecurity
 - **Experience:** IT security
 - **Education:** B.S. Computer Science
@@ -32,7 +32,7 @@ This website is built with HTML and CSS and is fully responsive, showcasing my w
 To explore the site locally:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kyle-mccolgan/kyle-mccolgan.git
+    git clone https://github.com/kmccol1/kyle-mccolgan.git
     ```
 2. Open `index.html` in your browser to view the website.
 
