@@ -6,12 +6,14 @@ Welcome to my personal portfolio! This site showcases my projects, skills, and e
 
 ## About Me
 
-Hi, I'm Kyle! I'm a web developer and IT security enthusiast based in St. Louis, Missouri, with a passion for creating efficient, user-friendly websites. I have experience in **front-end development**, **network programming**, and **information security**. This portfolio highlights my personal and professional projects, along with my journey in tech.
+Hi, I'm Kyle! I'm a web developer and IT security enthusiast based in Saint Louis. My passion lies in building efficient, user-friendly websites and secure network solutions. I have experience in front-end development, network programming, and information security, with a focus on creating scalable and high-performance applications.
+
+Feel free to explore my projects and reach out if you'd like to collaborate or learn more!
 
 ## Skills
-- **Programming Languages:** HTML, CSS, JavaScript, C++
-- **Web Development:** Front-end development with a focus on responsive design
-- **Cybersecurity:** Network programming, IT security, and secure code practices
+- Programming Languages: Experienced in HTML, CSS, and JavaScript for web development, and C++ for building efficient applications.
+- Web Development: Focused on front-end development with an emphasis on creating responsive and accessible user interfaces.
+- Cybersecurity: Knowledgeable in network programming, IT security fundamentals, and secure coding practices, with practical experience in network analysis.
 
 ## Vision
 I aim to develop secure, scalable, and user-friendly solutions in the realm of web development and network security, while continuously expanding my knowledge and skills in the tech industry.
@@ -26,9 +28,10 @@ This website is built with HTML and CSS and is fully responsive, showcasing my w
 
 ## Technologies Used
 
-- **Languages:** HTML, CSS, JavaScript, C++
-- **Frameworks/Libraries:** Bootstrap
-- **Tools:** GitHub, Linux
+- Languages: HTML, CSS, JavaScript
+- Testing Framework: Jest, for unit testing JavaScript functionality
+- Deployment: GitHub Pages, for hosting and continuous integration
+- Version Control: Git, managed through GitHub for code versioning and collaboration
 
 ## How to Use
 
