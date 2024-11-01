@@ -2,8 +2,8 @@
 body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
-    background-color: #1a1a1a; /* Dark background for Halloween vibes */
-    color: #e6e6e6; /* Light gray text for contrast */
+    background-color: #f8f4e3; /* Soft beige for a cozy, seasonal feel */
+    color: #4a2c2a; /* Deep brown text for a warm contrast */
 }
 
 /* Header styles */
@@ -14,12 +14,12 @@ header {
 
 h1 {
     font-size: 2.5em;
-    color: #ff7518; /* Orange, reminiscent of pumpkins */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Subtle shadow for a spooky effect */
+    color: #b35a2e; /* Rich burnt orange for a Thanksgiving vibe */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3); /* Subtle shadow for a warm touch */
 }
 
 h2 {
-    color: #c71585; /* Deep pinkish-purple for a spooky, yet modern look */
+    color: #8c4a3c; /* Deep rust color for a seasonal look */
     font-style: italic;
 }
 
@@ -28,18 +28,18 @@ h2 {
     width: 100px;
     height: auto;
     border-radius: 50%;
-    border: 3px solid #ff7518; /* Orange border around the image */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6); /* Shadow to create a floating effect */
+    border: 3px solid #b35a2e; /* Burnt orange border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* Gentle shadow for depth */
 }
 
 /* Section styling */
 section {
-    background: #2c2c2c; /* Slightly lighter dark background for contrast */
+    background: #fff7e6; /* Light, warm background for sections */
     border-radius: 8px;
     padding: 15px;
     margin: 15px 0;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4); /* Subtle shadow for depth */
-    border: 1px solid #ff7518; /* Orange border for a Halloween touch */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+    border: 1px solid #d08a43; /* Accent border in a warm amber color */
 }
 
 /* List styling */
@@ -49,9 +49,9 @@ ul {
 }
 
 ul li::before {
-    content: '🎃'; /* Pumpkin icon before each list item */
+    content: '🍂'; /* Falling leaf icon for a Thanksgiving touch */
     margin-right: 10px;
-    color: #ff7518; /* Orange pumpkin color */
+    color: #b35a2e; /* Orange to match the Thanksgiving theme */
 }
 
 /* Footer styling */
@@ -59,8 +59,8 @@ footer {
     text-align: center;
     margin-top: 20px;
     font-size: 0.9em;
-    color: #ff7518; /* Orange text for the footer */
-    background-color: #333; /* Dark background for the footer */
+    color: #d08a43; /* Amber text for the footer */
+    background-color: #ffe5b4; /* Warm, soft background color */
     padding: 10px 0;
     border-radius: 5px;
 }

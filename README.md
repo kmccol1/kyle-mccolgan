@@ -6,9 +6,9 @@ Welcome to my personal portfolio! This site showcases my projects, skills, and e
 
 ## About Me
 
-Hi, I'm Kyle! I'm a web developer and IT security enthusiast based in Saint Louis. My passion lies in building efficient, user-friendly websites and secure network solutions. I have experience in front-end development, network programming, and information security, with a focus on creating scalable and high-performance applications.
+Hi, I'm Kyle! I'm a web developer and IT security enthusiast based in Saint Louis with a focus on creating efficient, user-friendly websites and secure, scalable network solutions. With experience in front-end development, network programming, and information security, I bring a balanced approach to both usability and security in every project. My work emphasizes high performance, resilience, and a seamless user experience, whether I’m designing a web interface or building backend functionality.
 
-Feel free to explore my projects and reach out if you'd like to collaborate or learn more!
+Feel free to explore my projects—I'd love to connect with others who are passionate about building innovative, secure tech solutions. Let’s create something great together!
 
 ## Skills
 - Programming Languages: Experienced in HTML, CSS, and JavaScript for web development, and C++ for building efficient applications.
@@ -16,7 +16,7 @@ Feel free to explore my projects and reach out if you'd like to collaborate or l
 - Cybersecurity: Knowledgeable in network programming, IT security fundamentals, and secure coding practices, with practical experience in network analysis.
 
 ## Vision
-I aim to develop secure, scalable, and user-friendly solutions in the realm of web development and network security, while continuously expanding my knowledge and skills in the tech industry.
+I am committed to crafting secure, scalable, and user-centric solutions in web development and network security. My mission is to create accessible digital experiences that empower users, advance cybersecurity practices, and set new standards in usability and performance. Driven by curiosity and a growth mindset, I continuously seek out learning opportunities to stay at the forefront of technology. I envision a future where my work not only keeps pace with the evolving tech landscape but also contributes meaningfully to the safety, inclusivity, and integrity of the digital world.
 
 ## Key Projects
 
@@ -24,7 +24,7 @@ I aim to develop secure, scalable, and user-friendly solutions in the realm of w
 A C++ network scanner using libpcap to detect active hosts on a network. This project strengthens network security by helping identify unauthorized or suspicious devices in real-time.
 
 ### 2. [Portfolio Website](https://kmccol1.github.io/kyle-mccolgan)
-This website is built with HTML and CSS and is fully responsive, showcasing my web development skills. Check out the source code in this repository.
+This website is built with HTML and CSS and is fully responsive, showcasing my web development skills. Check out the source code in this very repository.
 
 ## Technologies Used
 
