@@ -25,11 +25,12 @@ h2 {
 
 /* Profile image */
 .profile-img {
-    width: 100px;
-    height: auto;
-    border-radius: 50%;
-    border: 3px solid #b35a2e; /* Burnt orange border */
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4); /* Gentle shadow for depth */
+    width: 300px; /* Adjust width for the large rectangular image */
+    height: 150px; /* Adjust height for a rectangular look */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    border-radius: 10px; /* Slightly rounded corners to soften the rectangular look */
+    border: 5px solid #b35a2e; /* Burnt orange border */
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.4); /* Gentle shadow for depth */
 }
 
 /* Section styling */

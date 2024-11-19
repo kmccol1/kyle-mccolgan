@@ -3,11 +3,11 @@
 
 Welcome to my personal portfolio! This repository houses the source code for my personal website, built to showcase my skills, projects, and journey in web development and IT security. Explore my work and feel free to reach out if you'd like to collaborate or learn more.
 
-![Portfolio Screenshot](./images/Screenshot_20241021_155359-1.png)
+![Portfolio Screenshot](./images/Screenshot_20241118_214223.png)
 
 ## About Me
 
-Hi, I'm Kyle McColgan—a web developer and IT security enthusiast based in Saint Louis. I specialize in building efficient, user-friendly websites and secure, scalable network solutions. My approach balances usability and security, ensuring high performance and seamless user experiences across all my projects.
+Hi, I'm Kyle McColgan—a developer and security enthusiast based in Saint Louis. I specialize in building efficient, user-friendly websites and secure, scalable network solutions. My approach balances usability and security, ensuring high performance and seamless user experiences across all my projects.
 
 I'm always excited to connect with others in the tech community. Whether it's collaborating on a project or sharing knowledge, let’s create something impactful together!
 
