@@ -19,12 +19,14 @@ h1 {
     color: #b35a2e;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
     word-wrap: break-word; /* Ensure long words break into the next line */
+    margin: 0; /* Added margin reset */
 }
 
 h2 {
     color: #8c4a3c;
     font-style: italic;
     word-wrap: break-word;
+    margin: 0; /* Added margin reset */
 }
 
 /* Profile image */
@@ -37,6 +39,7 @@ h2 {
     border-radius: 12px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
     transition: border-color 0.3s ease-in-out;
+    margin-top: 15px; /* Added margin to separate from header */
 }
 
 .profile-img:hover {
@@ -71,7 +74,6 @@ ul li::before {
     margin-right: 10px;
     color: #b35a2e; /* Orange to match the Thanksgiving theme */
 }
-
 
 hr {
     margin: 20px 0;
